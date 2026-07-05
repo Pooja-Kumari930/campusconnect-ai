@@ -8,6 +8,20 @@ classification, and deeper admin tooling are the next phases (see [Roadmap](#roa
 
 ---
 
+## Screenshots
+
+**Login Page**
+![Login Page](screenshots/login.png)
+
+**Admin Dashboard**
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+**Student Dashboard**
+![Student Dashboard](screenshots/student-dashboard.png)
+
+**Complaint Detail**
+![Complaint Detail](screenshots/complaint-detail.png)
+
 ## What's included right now
 
 **Auth**
